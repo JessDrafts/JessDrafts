@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jess
+- 👀 Currently living in Wonderland
+- 💞 My life is a Scandal! & Oh! apparently, I'm dramatic too
+- 🌱 Any Horror content recommendations?
+- ⚡ Fun fact: If yes is no and once is never, then how many sides does a triangle have?
+                                                                                        - J.H.
