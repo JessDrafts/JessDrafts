@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jess
 - 👀 Currently living in Wonderland
-- 💞 My life is a Scandal! & Oh! apparently, I'm dramatic too
-- 🌱 An introvert who's secretly an extrovert
+- 💞 My life is a Scandal! & Oh! apparently, I'm dramatic too🌱
 - ⚡ Fun fact: If yes is no and once is never, then how many sides does a triangle have?
                                                                                         - J.H.
