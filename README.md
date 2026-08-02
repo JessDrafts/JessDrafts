@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Jess
-- 👀 Currently living in Wonderland
-- 💞 My life is a Scandal! & Oh! apparently, I'm dramatic too🌱
-- ⚡ Fun fact: If yes is no and once is never, then how many sides does a triangle have? - J.H.
+# Hey there 👻  
+I'm Jessica!  
+Currently studying computer science at the University of Verona.  
+
+#Fun facts
+- 🎬 I enjoy watching Kdramas
+- 🍵 A sweet tooth who loves tea
+- 📚 I speak Tamil, English, Italian and a bit of spanish
