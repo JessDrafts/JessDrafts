@@ -7,6 +7,6 @@ Currently studying computer science at the University of Verona.
 - Tools: VsCode, Eclipse, pgAdmin, SQLite
     
 # Fun facts
-- 🎬 I enjoy watching Kdramas
-- 🍵 A sweet tooth who loves tea
-- 📚 I speak Tamil, English, Italian and a bit of spanish
+🎬 I enjoy watching Kdramas  
+🍵 A sweet tooth who loves tea  
+📚 I speak Tamil, English, Italian and a bit of spanish
