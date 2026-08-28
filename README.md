@@ -4,7 +4,7 @@ Currently studying computer science at the University of Verona.
 
 # Tech stuff 
 - Languages: C, Java, Python, HTML, CSS, JavaScript, SQL
-- Tools: VsCode, Eclipse, pgAdmin, SQLite
+- Tools: VsCode, Eclipse, Intellij, pgAdmin, SQLite
     
 # Fun facts
 🎬 I enjoy watching Kdramas  
