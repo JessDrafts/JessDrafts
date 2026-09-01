@@ -3,9 +3,9 @@ I'm Jessica!
 Currently studying computer science at the University of Verona.  
 
 # Tech stuff 
-[![My Skills](https://skillicons.dev/icons?i=c,css,html,java,js,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,css,html,java,js,php,py)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=eclipse,idea,matlab,postgres,pycharm,r,sqlite,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=eclipse,idea,latex,matlab,notion,postgres,pycharm,r,sqlite,vscode,wordpress)](https://skillicons.dev)
     
 # Fun facts
 🎬 I enjoy watching Kdramas  
